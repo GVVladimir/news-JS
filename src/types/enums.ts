@@ -5,7 +5,7 @@ export enum NewsCategory {
     Health = 'health',
     Science = 'science',
     Sports = 'sports',
-    Tehnology = 'tehnology',
+    Technology = 'technology',
 }
 
 export enum ErrorType {

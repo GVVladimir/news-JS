@@ -8,7 +8,7 @@ class AppController extends AppLoader {
             {
                 endpoint: 'sources',
                 options: {
-                    category: NewsCategory.Tehnology,
+                    category: NewsCategory.Technology,
                 },
             },
             callback
